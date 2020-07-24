@@ -7,3 +7,4 @@ Inspire each learner to make an impact, support each learner in discovering thei
 
 ### About:
 This repository contains exercises and resources for New Hope Programming Bootcamp.
+extra stuff: i dont know what to write but i did write stuff so its ok.
