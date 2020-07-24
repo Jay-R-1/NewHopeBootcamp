@@ -7,4 +7,3 @@ Inspire each learner to make an impact, support each learner in discovering thei
 
 ### About:
 This repository contains exercises and resources for New Hope Programming Bootcamp.
-yeeeeeeeeeeeeee i have controll now
