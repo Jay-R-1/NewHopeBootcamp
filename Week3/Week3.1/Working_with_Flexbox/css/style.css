@@ -99,17 +99,17 @@ nav li {
 .flex-container {
 
     /* Parent must have display set to flex */
-
+    display: flex; 
     /* Set flex-direction to row */
-
+    flex-direction:row
     /* Center each row on the page (hint: justify-content) */
-
+    justify-content: center
 }
 
 .flex-item {
 
     /* Set all-around margin to 1rem */
-
+    all-round_margin: 1rem 
     /* Make names and titles centered with pictures 
     (hint: text-align) */
     
